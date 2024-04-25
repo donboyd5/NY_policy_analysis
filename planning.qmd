@@ -1,0 +1,49 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Planning
+
+## What's a good bill?
+
+-   Enacted?
+
+-   Not too long
+
+-   Some meat to it; can investigate bill language; can investigate in context of existing law
+
+-   Legislative history - perhaps including a veto message, approval message (or is related to bills that have same), floor debate
+
+-   Stakeholder views
+
+-   Research (academic)
+
+-   Advocacy
+
+-   Geographic issues
+
+-   Data
+
+-   
+
+## Topics
+
+-   The issue
+
+-   The bill
+
+-   Legislative history
+
+    -   Reading
+
+    -   Legislative history of this bill
+
+-   Who will be affected and how
+
+-   Questions
+
+-   Appendices
+
+    -   How to email an expert
