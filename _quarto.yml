@@ -24,6 +24,7 @@ book:
     - impacts.qmd
     - legal.qmd
     - implementation.qmd
+    - fiscal.qmd
     - alternatives.qmd
     - presentation.qmd
     - part: "Appendices"

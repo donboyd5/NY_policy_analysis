@@ -1,0 +1,17 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Fiscal impacts
+
+## Background
+
+Read: 
+
+
+## Analyzing fiscal impact
+
+
+## Questions
