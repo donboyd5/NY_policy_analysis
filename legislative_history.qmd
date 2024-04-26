@@ -1,0 +1,25 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Legislative history
+
+Analysis of the bill's legislative history.
+
+## Background
+
+-   Read: (about legislative history)
+
+-   What legislative history is
+
+-   Why legislative history is important
+
+-   How to research legislative history
+
+## Legislative history of the bill
+
+
+## Questions
+

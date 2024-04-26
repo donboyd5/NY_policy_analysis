@@ -1,0 +1,17 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Preparing a 2-minute presentation about the bill
+
+## Background
+
+Read: 
+
+
+## Presentation
+
+
+## Questions

@@ -1,0 +1,19 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Research on the issue and the bill
+
+## Background
+
+Read: 
+
+
+## Analysis of research on the bill and the issue
+
+
+## Questions
+
+

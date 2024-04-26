@@ -76,7 +76,7 @@ Can you suggest 1-4 bills that might meet most of these criteria? It would be id
 
 ### Gemini
 
-#### **1. Non-Compete Agreements (A1278B/S03100 - 2023)**
+#### **Non-Compete Agreements (A1278B/S03100 - 2023)**
 
 -   **Topic:** This bill aimed to prohibit non-compete agreements between employers and most employees in New York.
 
@@ -94,7 +94,7 @@ Can you suggest 1-4 bills that might meet most of these criteria? It would be id
 
 -   **Stakeholders:** Business groups opposed the bill, while worker advocacy groups supported it. Both sides have issued reports and public statements.
 
-#### **2. Cash Bail Reform (Various Bills - 2019-2020)**
+#### **Cash Bail Reform (Various Bills - 2019-2020)**
 
 -   **Topic:** A series of bills proposed significant changes to the pre-trial detention system in New York, aiming to reduce reliance on cash bail.
 
@@ -112,7 +112,7 @@ Can you suggest 1-4 bills that might meet most of these criteria? It would be id
 
 -   **Stakeholders:** Criminal justice reform advocates supported the bills, while law enforcement groups raised concerns.
 
-#### **3. High-Volume Hydraulic Fracturing (Various Bills - 2014-2015)**
+#### **High-Volume Hydraulic Fracturing (Various Bills - 2014-2015)**
 
 -   **Topic:** A series of bills proposed either a ban or strict regulations on hydraulic fracturing (fracking) for natural gas extraction.
 
@@ -130,7 +130,7 @@ Can you suggest 1-4 bills that might meet most of these criteria? It would be id
 
 -   **Stakeholders:** Energy companies supported fracking, while environmental groups opposed it.
 
-#### **4. Congestion Pricing in Manhattan (Various Bills - 2018- Present)**
+#### **Congestion Pricing in Manhattan (Various Bills - 2018- Present)**
 
 -   **Topic:** A series of bills proposed to implement congestion pricing, a fee for vehicles entering Manhattan's central business district during peak hours.
 
@@ -152,7 +152,7 @@ Can you suggest 1-4 bills that might meet most of these criteria? It would be id
 
 Here are four bills from the New York State Assembly that could serve as excellent case studies for your public policy analysis course, each offering various aspects of legislative complexity and stakeholder involvement:
 
-#### 1. **Tenant Protection Act (2023)**
+#### **Tenant Protection Act (2023)**
 
 -   **Bill Number:** Not specified
 
@@ -160,7 +160,7 @@ Here are four bills from the New York State Assembly that could serve as excelle
 
 -   **Topic:** This legislation expanded tenant protections against rent overcharges by allowing tenants to consult long-ago rent histories and making it easier to prove fraud. It was controversial, particularly among landlords and property owners who argued that it would have devastating financial impacts. The bill saw significant debate and involves various implementation challenges related to housing regulations.
 
-#### 2. **John R. Lewis Voting Rights Act of New York (2022)**
+#### **John R. Lewis Voting Rights Act of New York (2022)**
 
 -   **Bill Number:** S.1046-E/A.6678-E
 
@@ -168,7 +168,7 @@ Here are four bills from the New York State Assembly that could serve as excelle
 
 -   **Topic:** This act established a state analogue to the federal Voting Rights Act's preclearance provision, requiring jurisdictions with a history of voting rights violations to obtain approval before changing election laws. This bill was significant in its scope and impact, with stakeholders including civil rights organizations actively involved in its passage.
 
-#### 3. **Regulation on 3D Printers (2023)**
+#### **Regulation on 3D Printers (2023)**
 
 -   **Bill Number:** A8132
 
@@ -176,7 +176,7 @@ Here are four bills from the New York State Assembly that could serve as excelle
 
 -   **Topic:** This bill proposed criminal history background checks for purchases of 3D printers capable of creating firearms. It was controversial due to concerns about its impact on freedom, innovation, and practical enforcement challenges. The bill highlights issues of technology, security, and privacy, with significant opposition from various sectors including education and small businesses.
 
-#### 4. **Housing Stability and Tenant Protection Act of 2019**
+#### **Housing Stability and Tenant Protection Act of 2019**
 
 -   **Bill Number:** Not specified
 
@@ -190,18 +190,18 @@ These bills offer a range of topics from tenant rights, voting rights, technolog
 
 Based on the criteria you provided, here are a few bills that could be good candidates for your public policy analysis course:
 
-#### **1. The New York Tropical Deforestation-Free Procurement Act (S4859A/A6872A) sponsored by Senator Liz Krueger in 2023.**
+#### **The New York Tropical Deforestation-Free Procurement Act (S4859A/A6872A) sponsored by Senator Liz Krueger in 2023.**
 
 This bill aims to ensure that the state government does not contribute to tropical deforestation through its procurement of certain commodities. It has gone through amendments, raises potential economic impacts across the state, and involves implementation challenges in assessing supply chains[[8]{.underline}](https://www.nysenate.gov/legislation/bills/2023/S4859/amendment/A). Environmental advocacy groups have taken positions on the bill.
 
-#### **2. Legislation related to the new Buffalo Bills stadium deal in 2023.**
+#### **Legislation related to the new Buffalo Bills stadium deal in 2023.**
 
 While I don't have a specific bill number, legislation around the financing and construction of the new NFL stadium likely meets many of your criteria. It involves state funding and economic impact analysis, differences in benefits between regions of the state, potential constitutional issues around public financing of private projects, and strong positions from various stakeholder groups[[11]{.underline}](https://www.governor.ny.gov/news/governor-hochul-buffalo-bills-and-erie-county-announce-start-construction-new-state-art).
 
-#### **3. Amendments to the Soil and Water Conservation Districts Law in the 2023-2024 legislative session (S4134).**
+#### **Amendments to the Soil and Water Conservation Districts Law in the 2023-2024 legislative session (S4134).**
 
 This bill makes changes to the administration of soil and water conservation districts. It has moved through the legislative process with amendments, involves state-local coordination in implementation, and relates to agricultural and environmental policy areas where academic research exists[[14]{.underline}](https://www.nysenate.gov/legislation/bills/2023/S4134).
 
-#### **4. The Consolidated Appropriations Act of 2023 (H.R.2617 from the 117th Congress).**
+#### **The Consolidated Appropriations Act of 2023 (H.R.2617 from the 117th Congress).**
 
 While a federal law, this sprawling appropriations bill could provide opportunities to analyze specific provisions that relate to New York. With a wide scope spanning multiple policy areas, it provides options to identify issues with state impacts, stakeholder positions, and relevant research[[18]{.underline}](https://www.congress.gov/bill/117th-congress/house-bill/2617).These suggestions aim to provide a diversity of topics and bill characteristics aligned with your criteria. The state bills are more recent, while the federal appropriations law offers the ability to examine specific provisions within a larger legislative vehicle. Let me know if you would like me to elaborate on any of these suggestions or if you need additional options to consider.

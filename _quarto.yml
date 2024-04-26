@@ -5,21 +5,27 @@ execute:
   eval: true
   echo: true
   output: true
-  freeze: false  # auto: during global project renders, re-render only when source changes
+  freeze: auto  # auto: during global project renders, re-render only when source changes
 
 book:
-  title: "Examine PUF-Policy Engine files"
-  subtitle: "Multiple years"
-  # author: "Don Boyd"
+  title: "Policy Analysis in the New York Legislative Environment"
+  subtitle: "Hands-on Approach"
+  author: "Don Boyd"
   date: today
   date-format: long
   chapters:
     - index.qmd
     - planning.qmd
-    # - intro.qmd
-    # - issue.qmd
-    # - bill.qmd
-    # - legislative_history.qmd
+    - intro.qmd
+    - issue.qmd
+    - bill.qmd
+    - research.qmd
+    - legislative_history.qmd
+    - impacts.qmd
+    - legal.qmd
+    - implementation.qmd
+    - alternatives.qmd
+    - presentation.qmd
     # - part: "Revenue options"
     #   chapters:
     #   - options/summary.qmd
@@ -30,6 +36,8 @@ format:
   html:
     theme: cosmo
     code-fold: true
+    number-depth: 5
+    toc-depth: 5
   # pdf:
   #   documentclass: scrreprt
 

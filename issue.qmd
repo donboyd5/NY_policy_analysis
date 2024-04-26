@@ -4,10 +4,14 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Introduction
+# The issue
 
-Overview of the bill and the issue.
+## Background
 
-Download pdf of the bill.
+Read: 
 
 
+## Analysis of the issue
+
+
+## Questions

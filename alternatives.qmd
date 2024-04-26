@@ -1,0 +1,20 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Alternatives and experience elsewhere
+
+## Background
+
+Read: 
+
+Why we care about alternatives and experience elsewhere
+
+How can we examine who is affected?
+
+## Analysis of alternatives and experiences with the bill and alternatives
+
+## Questions
+

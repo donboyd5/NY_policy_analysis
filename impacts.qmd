@@ -1,0 +1,34 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Who the bill would affect and how
+
+## Background
+
+Read: 
+
+Kinds of impacts
+
+-   Regional
+
+-   Incomes
+
+-   Race and ethnicity
+
+-   Local governments
+
+-   Industries or types of businesses
+
+-   Other - e.g., religion, age, property owners vs. renters, ...
+
+How can we examine who is affected?
+
+## Analysis of the bill's impacts
+
+## Questions
+
+
+
