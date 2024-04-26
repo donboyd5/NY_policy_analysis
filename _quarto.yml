@@ -26,9 +26,9 @@ book:
     - implementation.qmd
     - alternatives.qmd
     - presentation.qmd
-    # - part: "Revenue options"
-    #   chapters:
-    #   - options/summary.qmd
+    - part: "Appendices"
+      chapters:
+      - appendix/askquestion.qmd
 
 # bibliography: references.bib
 
