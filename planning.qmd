@@ -26,7 +26,9 @@ editor_options:
 
 -   Data
 
--   
+-   Implementation issues
+
+-   Federal or state constitutional issues
 
 ## Topics
 
@@ -47,3 +49,159 @@ editor_options:
 -   Appendices
 
     -   How to email an expert
+
+## Draft prompt
+
+I want to organize a public policy analysis course for legislative interns in the New York State Assembly around a bill that we can research and analyze together. I'd like your help picking such a bill. It might not be a current bill but might be a bill that was enacted 1, 2, or maybe 3 years ago. I want the bill and issue to have some or all of the following characteristics:
+
+-   At least moderately controversial, although it does not need to be a change-the-world bill.
+
+-   Some researchable legislative history. For example, it may have been amended one or more times as it moved through the process. It may have been vetoed in an earlier iteration, so that we can examine a veto message. It was debated on the Assembly or Senate floor at least once, so that we can read a debate transcript. Perhaps a similar or related bill was enacted a year or two earlier, so that we can read the bill jacket associated with the bill.
+
+-   Not overly long or technical. Perhaps 1-4 pages of legislative text. The topic and legislative language should be reasonably accessible to a smart policy analyst.
+
+-   Raises issues that might affect different parts of the state differently, so that students can research how, for example, upstate-downstate differences in politics, or incomes, or race relate to the bill.
+
+-   May raise one or more federal or state constitutional issues that need to be considered in examining the bill.
+
+-   The underlying issue the bill addresses has elements that may have been the subject of academic research. For example, if the bill changes prison sentencing guidelines, perhaps there is academic research relating to the impact of sentencing guidelines. If it changes education funding, perhaps there is research on the relationship between funding and student academic performance, and so on - whatever the underlying issue is, it would be nice if there is some academic research on the topic.
+
+-   May raise implementation issues - might involve coordination with the federal government, or with local governments, or it may involve setting up new administrative procedures to implement it, or it may have other challenges that could affect how the bill should be structured.
+
+-   Important stakeholders - for example advocacy organizations, or unions, or business organizations have staked out positions on the bill. Perhaps they have issued reports, or press releases, or made statements giving their positions and the reasons for those positions.
+
+Can you suggest 1-4 bills that might meet most of these criteria? It would be ideal to provide the bill number, topic, sponsor, and year, but if you cannot do that, it would good to at least provide the topic and sponsor.
+
+## Chatbot responses
+
+### Gemini
+
+#### **1. Non-Compete Agreements (A1278B/S03100 - 2023)**
+
+-   **Topic:** This bill aimed to prohibit non-compete agreements between employers and most employees in New York.
+
+-   **Legislative History:** Passed by both the Assembly and Senate but vetoed by Governor Hochul in December 2023. Veto message <https://natlawreview.com/article/noncompete-ban-passes-state-assembly-heads-to-new-york-governor-possible-signature> available.
+
+-   **Length:** Under 4 pages.
+
+-   **Geographic Impact:** Potential to affect businesses across the state, with potentially different impacts on upstate vs downstate economies.
+
+-   **Federal/State Constitutional Issues:** May raise questions regarding federal preemption in certain industries.
+
+-   **Academic Research:** Plenty of research exists on the impact of non-compete agreements on wages, innovation, and worker mobility.
+
+-   **Implementation Issues:** The Department of Labor would need to develop enforcement mechanisms.
+
+-   **Stakeholders:** Business groups opposed the bill, while worker advocacy groups supported it. Both sides have issued reports and public statements.
+
+#### **2. Cash Bail Reform (Various Bills - 2019-2020)**
+
+-   **Topic:** A series of bills proposed significant changes to the pre-trial detention system in New York, aiming to reduce reliance on cash bail.
+
+-   **Legislative History:** Several bills debated throughout 2019-2020 session. Ultimately, a compromise bill was not reached.
+
+-   **Length:** Varied depending on the specific bill.
+
+-   **Geographic Impact:** Potential to affect incarceration rates and pretrial detention practices statewide, with potentially different impacts on urban vs rural areas.
+
+-   **Federal/State Constitutional Issues:** Raised questions regarding the Eighth Amendment's right to pre-trial release.
+
+-   **Academic Research:** Extensive research on the impact of cash bail on pretrial detention rates and racial disparities in the criminal justice system.
+
+-   **Implementation Issues:** Significant changes to court procedures and potential need for additional resources for pretrial services.
+
+-   **Stakeholders:** Criminal justice reform advocates supported the bills, while law enforcement groups raised concerns.
+
+#### **3. High-Volume Hydraulic Fracturing (Various Bills - 2014-2015)**
+
+-   **Topic:** A series of bills proposed either a ban or strict regulations on hydraulic fracturing (fracking) for natural gas extraction.
+
+-   **Legislative History:** Debated for several years, with no bill passing either chamber.
+
+-   **Length:** Varied depending on the specific bill.
+
+-   **Geographic Impact:** Primarily upstate New York, where the potential for natural gas deposits exists. Could impact economic development and environmental regulations.
+
+-   **Federal/State Constitutional Issues:** Potential for federal preemption of some regulations. Environmental concerns raised under the state constitution.
+
+-   **Academic Research:** Research on the economic and environmental impacts of fracking in other states.
+
+-   **Implementation Issues:** Complex permitting process and potential need for new state agencies to oversee drilling.
+
+-   **Stakeholders:** Energy companies supported fracking, while environmental groups opposed it.
+
+#### **4. Congestion Pricing in Manhattan (Various Bills - 2018- Present)**
+
+-   **Topic:** A series of bills proposed to implement congestion pricing, a fee for vehicles entering Manhattan's central business district during peak hours.
+
+-   **Legislative History:** Ongoing debate. A congestion pricing plan was approved by the Federal Highway Administration in February 2023, but the state legislation is still being debated.
+
+-   **Length:** Varied depending on the specific bill.
+
+-   **Geographic Impact:** Primarily affects New York City, but could have implications for traffic patterns in the surrounding region.
+
+-   **Federal/State Constitutional Issues:** Potential for legal challenges regarding interstate commerce and taxation.
+
+-   **Academic Research:** Research on the effectiveness of congestion pricing in other cities to reduce traffic congestion and raise revenue.
+
+-   **Implementation Issues:** Complexities of setting up tolling infrastructure and managing exemptions.
+
+-   **Stakeholders:** Traffic congestion opponents and environmental groups support congestion pricing, while some business groups and suburban residents oppose it.
+
+### ChatGPT 4
+
+Here are four bills from the New York State Assembly that could serve as excellent case studies for your public policy analysis course, each offering various aspects of legislative complexity and stakeholder involvement:
+
+#### 1. **Tenant Protection Act (2023)**
+
+-   **Bill Number:** Not specified
+
+-   **Sponsors:** Assembly member Linda Rosenthal and Senator Brian Kavanagh
+
+-   **Topic:** This legislation expanded tenant protections against rent overcharges by allowing tenants to consult long-ago rent histories and making it easier to prove fraud. It was controversial, particularly among landlords and property owners who argued that it would have devastating financial impacts. The bill saw significant debate and involves various implementation challenges related to housing regulations.
+
+#### 2. **John R. Lewis Voting Rights Act of New York (2022)**
+
+-   **Bill Number:** S.1046-E/A.6678-E
+
+-   **Sponsors:** Senator Zellnor Myrie and Assemblymember Latrice Walker
+
+-   **Topic:** This act established a state analogue to the federal Voting Rights Act's preclearance provision, requiring jurisdictions with a history of voting rights violations to obtain approval before changing election laws. This bill was significant in its scope and impact, with stakeholders including civil rights organizations actively involved in its passage.
+
+#### 3. **Regulation on 3D Printers (2023)**
+
+-   **Bill Number:** A8132
+
+-   **Sponsor:** Assemblymember Rajkumar
+
+-   **Topic:** This bill proposed criminal history background checks for purchases of 3D printers capable of creating firearms. It was controversial due to concerns about its impact on freedom, innovation, and practical enforcement challenges. The bill highlights issues of technology, security, and privacy, with significant opposition from various sectors including education and small businesses.
+
+#### 4. **Housing Stability and Tenant Protection Act of 2019**
+
+-   **Bill Number:** Not specified
+
+-   **Sponsors:** Various
+
+-   **Topic:** Although enacted a bit earlier, this act significantly reformed rent regulation laws in New York, providing a backdrop for the Tenant Protection Act of 2023. It raised issues of rent control, legal challenges, and had a substantial impact on landlords and tenants, making it a rich subject for policy analysis.
+
+These bills offer a range of topics from tenant rights, voting rights, technology regulation, to housing stability. Each has a robust legislative history, involves constitutional considerations, different stakeholders, and varied implementation challenges, making them suitable for in-depth analysis in your course.
+
+### Perplexity (Claude 3)
+
+Based on the criteria you provided, here are a few bills that could be good candidates for your public policy analysis course:
+
+#### **1. The New York Tropical Deforestation-Free Procurement Act (S4859A/A6872A) sponsored by Senator Liz Krueger in 2023.**
+
+This bill aims to ensure that the state government does not contribute to tropical deforestation through its procurement of certain commodities. It has gone through amendments, raises potential economic impacts across the state, and involves implementation challenges in assessing supply chains[[8]{.underline}](https://www.nysenate.gov/legislation/bills/2023/S4859/amendment/A). Environmental advocacy groups have taken positions on the bill.
+
+#### **2. Legislation related to the new Buffalo Bills stadium deal in 2023.**
+
+While I don't have a specific bill number, legislation around the financing and construction of the new NFL stadium likely meets many of your criteria. It involves state funding and economic impact analysis, differences in benefits between regions of the state, potential constitutional issues around public financing of private projects, and strong positions from various stakeholder groups[[11]{.underline}](https://www.governor.ny.gov/news/governor-hochul-buffalo-bills-and-erie-county-announce-start-construction-new-state-art).
+
+#### **3. Amendments to the Soil and Water Conservation Districts Law in the 2023-2024 legislative session (S4134).**
+
+This bill makes changes to the administration of soil and water conservation districts. It has moved through the legislative process with amendments, involves state-local coordination in implementation, and relates to agricultural and environmental policy areas where academic research exists[[14]{.underline}](https://www.nysenate.gov/legislation/bills/2023/S4134).
+
+#### **4. The Consolidated Appropriations Act of 2023 (H.R.2617 from the 117th Congress).**
+
+While a federal law, this sprawling appropriations bill could provide opportunities to analyze specific provisions that relate to New York. With a wide scope spanning multiple policy areas, it provides options to identify issues with state impacts, stakeholder positions, and relevant research[[18]{.underline}](https://www.congress.gov/bill/117th-congress/house-bill/2617).These suggestions aim to provide a diversity of topics and bill characteristics aligned with your criteria. The state bills are more recent, while the federal appropriations law offers the ability to examine specific provisions within a larger legislative vehicle. Let me know if you would like me to elaborate on any of these suggestions or if you need additional options to consider.
