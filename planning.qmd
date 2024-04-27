@@ -30,6 +30,13 @@ editor_options:
 
 -   Federal or state constitutional issues
 
+[Google sheet with options (right click to open in separate window)](https://docs.google.com/spreadsheets/d/1gn6VVKUAAloNacUNWZTY80l5BUWsHFdYpMNOtOdXrPA/edit?usp=sharing)
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDWz_W7XiteEYVYLyjlY41ZI_5pCo0HH7euZxT0R_Ge-mGBoeZvKpXVr0eGqfHd7FcVHshS8EPqJhg/pubhtml?widget=true&amp;headers=false"></iframe> -->
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTDWz_W7XiteEYVYLyjlY41ZI_5pCo0HH7euZxT0R_Ge-mGBoeZvKpXVr0eGqfHd7FcVHshS8EPqJhg/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe> -->
+
+
 ## Topics
 
 -   The issue
