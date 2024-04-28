@@ -48,12 +48,16 @@ editor_options:
     -   Reading
 
     -   Legislative history of this bill
+    
+-   What would make it pass?    
 
 -   Who will be affected and how
 
 -   Questions
 
 -   Appendices
+
+    -   Links and resources
 
     -   How to email an expert
 
