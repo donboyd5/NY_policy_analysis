@@ -29,6 +29,7 @@ book:
     - presentation.qmd
     - part: "Appendices"
       chapters:
+      - appendix/resources.qmd
       - appendix/askquestion.qmd
 
 # bibliography: references.bib

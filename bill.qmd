@@ -6,13 +6,26 @@ editor_options:
 
 # The bill
 
-
 ## Background
 
-Read: 
+Read:
 
-## Analysis of the bill
+## Analyze the bill and law
 
+### Steps
+
+-   Get the bill package from the Assembly site (check LRS??) and explain the info that is available.
+
+-   Read the sponsor's memo to understand what the sponsor says the bill does, and why, and to see whether there are important facts or issues to investigate.
+
+-   **What is current law** and how would the bill change it?
+
+    Make sure to examine current law carefully. Use the Senate site for laws and explain how it works. Show how to read the law.
+
+-   Examine the bill in detail. Obtain help as needed.
+
+-   Compare the bill to what the sponsor's memo says.
+
+### Analysis
 
 ## Questions
-

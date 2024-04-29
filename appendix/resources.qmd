@@ -1,0 +1,31 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Links and resources
+
+## General research tools
+
+## Legislative research
+
+-   General
+    -   [NYS Legislative Library](https://legislativelibrary.ny.gov/)
+-   Legislative history
+    -   [The Legislative History of a New York State Law: A Tutorial and Guide to Library Sources](https://www.nysl.nysed.gov/leghist/)
+-   NYS Consolidated laws
+    -   [Legislative site](http://public.leginfo.state.ny.us/lawssrch.cgi?NVLWO:) - nice organizational structure makes things easy to find. Only has the most recent versions of laws.
+    -   [Senate site](https://www.nysenate.gov/legislation/laws) - a little harder to navigate but has multiple vintages of laws, accessible via a dropdown box, making it easy to trace how a law has changed over time.
+
+## Academic and quasi-academic research
+
+## About New York State Government
+
+## What do other states do?
+
+-   National Governors Association (NGA)
+
+-   National Conference of State Legislatures (NCSL)
+
+-   Council of State Governments (CSG)
