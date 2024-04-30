@@ -17,6 +17,10 @@ editor_options:
 -   NYS Consolidated laws
     -   [Legislative site](http://public.leginfo.state.ny.us/lawssrch.cgi?NVLWO:) - nice organizational structure makes things easy to find. Only has the most recent versions of laws.
     -   [Senate site](https://www.nysenate.gov/legislation/laws) - a little harder to navigate but has multiple vintages of laws, accessible via a dropdown box, making it easy to trace how a law has changed over time.
+-   [Governor's proposed legislation](https://www.governor.ny.gov/legislation)
+-   Veto jackets and messages
+    -   [Legislative library resources](https://legislativelibrary.ny.gov/legislative-resources#bill_veto)
+    -   [2023 vetoes](https://nysfocus.com/2024/01/03/kathy-hochul-2023-veto)
 
 ## Academic and quasi-academic research
 
