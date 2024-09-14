@@ -6,7 +6,7 @@ editor_options:
 
 # Planning
 
-## What's a good bill?
+## What's a good bill for this web page?
 
 -   Enacted?
 
