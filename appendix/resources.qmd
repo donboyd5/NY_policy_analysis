@@ -11,16 +11,44 @@ editor_options:
 ## Legislative research
 
 -   General
+
     -   [NYS Legislative Library](https://legislativelibrary.ny.gov/)
+
+-   Bills
+
+    -   [Assembly site](https://www.assembly.state.ny.us/leg/?)
+    -   [Legislative Retrieval System (public)](http://public.leginfo.state.ny.us/navigate.cgi)
+
+-   Laws of New York
+
 -   Legislative history
+
     -   [The Legislative History of a New York State Law: A Tutorial and Guide to Library Sources](https://www.nysl.nysed.gov/leghist/)
+
 -   NYS Consolidated laws
+
     -   [Legislative site](http://public.leginfo.state.ny.us/lawssrch.cgi?NVLWO:) - nice organizational structure makes things easy to find. Only has the most recent versions of laws.
     -   [Senate site](https://www.nysenate.gov/legislation/laws) - a little harder to navigate but has multiple vintages of laws, accessible via a dropdown box, making it easy to trace how a law has changed over time.
+
 -   [Governor's proposed legislation](https://www.governor.ny.gov/legislation)
+
+-   
+
+    ## Bill jackets and messages
+
 -   Veto jackets and messages
+
     -   [Legislative library resources](https://legislativelibrary.ny.gov/legislative-resources#bill_veto)
     -   [2023 vetoes](https://nysfocus.com/2024/01/03/kathy-hochul-2023-veto)
+
+-   Opinions of the Attorney General
+
+    -   Some are [here](https://n94012.eos-intl.net/N94012/OPAC/Details/Record.aspx?IndexCode=15&TaskCode=967999&HitCount=13&CollectionCode=2&SortDirection=Ascending&CurrentPage=2&CurrentLinkCode=MN94012%7C4865334%7C11%7C6341085&SelectionType=0&SearchType=1&BibCode=MN94012%7C12726636%7C13%7C6341087)
+    -   Talk to legislative library about this
+
+-   [Good resource list](https://www.nycourts.gov/reporter/research.shtml)
+
+-   And [this](https://research.lib.buffalo.edu/ny-legislative-history/web-resources)
 
 ## Academic and quasi-academic research
 
