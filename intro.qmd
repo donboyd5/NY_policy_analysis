@@ -6,6 +6,10 @@ editor_options:
 
 # Introduction
 
+This website takes us through the exercise analyzing a bill in the New York State legislation. The goal is to do the sort of analysis that we might do for a research paper, in the case of a longer term project, or for a policy memo, in the case of a shorter term project.
+
+We use A.4454 of 2024, Good Cause Eviction, as an example.
+
 Overview of the bill and the issue.
 
 Download pdf of the bill.

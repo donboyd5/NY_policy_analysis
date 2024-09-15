@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: beb3edf9-1126-4e15-8af4-4d0e2d135782
-      url: 'https://boyd-aip-2025.netlify.app/'
+      url: 'https://boyd-aip-2025.netlify.app'
