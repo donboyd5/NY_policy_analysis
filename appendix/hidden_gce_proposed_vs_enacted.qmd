@@ -59,7 +59,7 @@ The Good Cause Eviction law aims to protect tenants from arbitrary and retaliato
 ### **Table Summary**
 
 | **Provision** | **Original Proposal** | **Final Enactment** |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Purpose** | Prohibits eviction without good cause | Maintains core principles with specific exemptions and clarifications |
 | **Applicability** | Excludes rent-regulated/rent-stabilized buildings, public housing, and Section 8 | Covers 1.6 million households, excluding small landlords and specific types of housing |
 | **Rent Increases** | Justification required for increases \>3% or 1.5% of CPI | Same as original proposal |
@@ -106,7 +106,7 @@ I'm going to upload 2 documents: (1) Good Cause Eviction as originally proposed 
 #### Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | Scope and Applicability | Focused solely on "Good Cause Eviction" | Part of a larger omnibus bill; may include other housing measures affecting GCE's scope |
 | Tenant Protections | Clearer, more stringent protections; stricter limits on rent increases | Potentially softened or modified protections to accommodate negotiations |
 | Effective Date | Immediate upon passage | May include different or staggered effective dates |
@@ -180,7 +180,7 @@ Based on my initial search, here’s a more detailed analysis of the differences
 #### Summary Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Applicability & Exemptions** | Broadly applied; specific exemptions (owner-occupied \<4 units) | Similar exemptions; added "small landlord" considerations and local flexibility |
 | **Unreasonable Rent Increase** | Increase exceeding 3% or 1.5x CPI (whichever is greater) | Increase exceeding the lower of 5% + CPI change or 10% |
 | **Grounds for Eviction** | Specific grounds with strict conditions | Similar grounds; added requirements for landlord to provide clear, convincing evidence |
@@ -238,7 +238,7 @@ Here is a more detailed analysis of the differences between the originally propo
 #### Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | **Applicability & Exemptions** | Broad; did not explicitly define small landlords | Includes exemptions for small landlords (10 units or fewer) |
 | **Local Government Opt-In** | Not specified | Localities outside NYC can opt-in, but no referendum requirement details |
 | **Unreasonable Rent Increase** | Exceeding 3% or 1.5x CPI | Exceeding the lesser of 10% or 5% + CPI change |
@@ -286,22 +286,14 @@ The opt-in provisions for local governments are addressed in Part HH, Section 21
 
 These details provide a clearer understanding of how local governments can choose to apply the Good Cause Eviction law within their jurisdictions.
 
-## anotheer
+## ChatGPT 4th follow-up
 
-Thank you. You nailed it this time. Have any local governments opted in, and if so what definitions did they use for small landlard? If different from the provisions as they apply in NYC, please speculate as to why. Please give citations.
+Thank you. You nailed it this time. Have any local governments opted in, and if so what definitions did they use for small landlord? If different from the provisions as they apply in NYC, please speculate as to why. Please give citations.
 
 ### Response
 
-Several local governments in New York have opted into the Good Cause Eviction law. One example is the City of Newburgh, which recently adopted the law. Interestingly, Newburgh has defined “small landlords” more narrowly than the state default, exempting only those who own no more than one unit in the state. In contrast, the law in New York City exempts landlords with up to 10 units. Additionally, Newburgh has set a higher rent exemption threshold than New York City, excluding housing where the rent is more than 345% of the fair market rent, compared to the 245% threshold used in NYC (
+Several local governments in New York have opted into the Good Cause Eviction law. One example is the City of Newburgh, which recently adopted the law. Interestingly, Newburgh has defined “small landlords” more narrowly than the state default, exempting only those who own no more than one unit in the state. In contrast, the law in New York City exempts landlords with up to 10 units. Additionally, Newburgh has set a higher rent exemption threshold than New York City, excluding housing where the rent is more than 345% of the fair market rent, compared to the 245% threshold used in NYC ([The Real Deal](https://therealdeal.com/new-york/2024/09/12/hudson-valleys-newburgh-opts-into-nys-good-cause-eviction/)).
 
-[The Real Deal](https://therealdeal.com/new-york/2024/09/12/hudson-valleys-newburgh-opts-into-nys-good-cause-eviction/)
-
-).
-
-Newburgh’s adoption of stricter criteria for exemptions likely reflects local housing market conditions and a desire to strengthen tenant protections. Other upstate cities that have opted into the law include Albany, Kingston, Poughkeepsie, Ithaca, and Beacon, and it seems they have followed a similar template with some room for local adjustments​(
-
-[News 12 - Default](https://westchester.news12.com/newburgh-city-council-unanimously-adopts-good-cause-eviction-law)
-
-).
+Newburgh’s adoption of stricter criteria for exemptions likely reflects local housing market conditions and a desire to strengthen tenant protections. Other upstate cities that have opted into the law include Albany, Kingston, Poughkeepsie, Ithaca, and Beacon, and it seems they have followed a similar template with some room for local adjustments​([News 12 - Default](https://westchester.news12.com/newburgh-city-council-unanimously-adopts-good-cause-eviction-law)).
 
 These variations suggest that local governments may tailor the law to address their unique housing challenges and policy goals, emphasizing different aspects of tenant and landlord rights depending on local contexts.
