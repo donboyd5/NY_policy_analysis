@@ -59,7 +59,7 @@ The Good Cause Eviction law aims to protect tenants from arbitrary and retaliato
 ### **Table Summary**
 
 | **Provision** | **Original Proposal** | **Final Enactment** |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Purpose** | Prohibits eviction without good cause | Maintains core principles with specific exemptions and clarifications |
 | **Applicability** | Excludes rent-regulated/rent-stabilized buildings, public housing, and Section 8 | Covers 1.6 million households, excluding small landlords and specific types of housing |
 | **Rent Increases** | Justification required for increases \>3% or 1.5% of CPI | Same as original proposal |
@@ -106,7 +106,7 @@ I'm going to upload 2 documents: (1) Good Cause Eviction as originally proposed 
 #### Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Scope and Applicability | Focused solely on "Good Cause Eviction" | Part of a larger omnibus bill; may include other housing measures affecting GCE's scope |
 | Tenant Protections | Clearer, more stringent protections; stricter limits on rent increases | Potentially softened or modified protections to accommodate negotiations |
 | Effective Date | Immediate upon passage | May include different or staggered effective dates |
@@ -180,7 +180,7 @@ Based on my initial search, here’s a more detailed analysis of the differences
 #### Summary Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Applicability & Exemptions** | Broadly applied; specific exemptions (owner-occupied \<4 units) | Similar exemptions; added "small landlord" considerations and local flexibility |
 | **Unreasonable Rent Increase** | Increase exceeding 3% or 1.5x CPI (whichever is greater) | Increase exceeding the lower of 5% + CPI change or 10% |
 | **Grounds for Eviction** | Specific grounds with strict conditions | Similar grounds; added requirements for landlord to provide clear, convincing evidence |
@@ -238,7 +238,7 @@ Here is a more detailed analysis of the differences between the originally propo
 #### Table of Differences
 
 | Aspect | Original Proposal (A4454) | Enacted Bill (A8806c, Part HH) |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | **Applicability & Exemptions** | Broad; did not explicitly define small landlords | Includes exemptions for small landlords (10 units or fewer) |
 | **Local Government Opt-In** | Not specified | Localities outside NYC can opt-in, but no referendum requirement details |
 | **Unreasonable Rent Increase** | Exceeding 3% or 1.5x CPI | Exceeding the lesser of 10% or 5% + CPI change |
