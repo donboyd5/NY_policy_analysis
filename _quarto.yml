@@ -31,6 +31,9 @@ book:
       chapters:
       - appendix/resources.qmd
       - appendix/hidden_gce_links.qmd
+      - appendix/identify_advocacy_organizations.qmd
+      - appendix/housing_advocacy_organizations.qmd
+      - appendix/landlord_advocacy_organizations.qmd
       - appendix/askquestion.qmd
 
 # bibliography: references.bib
