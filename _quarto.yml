@@ -35,6 +35,7 @@ book:
       - appendix/housing_advocacy_organizations.qmd
       - appendix/landlord_advocacy_organizations.qmd
       - appendix/hidden_gce_proposed_vs_enacted.qmd
+      - appendix/hidden_gce_proposed_vs_other_states.qmd
       - appendix/askquestion.qmd
 
 # bibliography: references.bib
