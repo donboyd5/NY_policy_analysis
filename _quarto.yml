@@ -30,6 +30,7 @@ book:
     - part: "Appendices"
       chapters:
       - appendix/resources.qmd
+      - appendix/hidden_gce_links.qmd
       - appendix/askquestion.qmd
 
 # bibliography: references.bib
