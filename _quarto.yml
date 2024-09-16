@@ -17,18 +17,34 @@ book:
     - index.qmd
     - planning.qmd
     - intro.qmd
-    - issue.qmd
-    - bill.qmd
-    - research.qmd
-    - legislative_history.qmd
-    - impacts.qmd
-    - legal.qmd
-    - implementation.qmd
-    - fiscal.qmd
-    - alternatives.qmd
-    - presentation.qmd
-    - part: "Appendices"
+    - part: "The issue"
+      chapters:    
+      - issue.qmd
+    - part: "The Bill"
+      chapters:          
+      - bill.qmd
+      - research.qmd
+      - legislative_history.qmd
+    - part: "Who the Bill Would Affect and How"
+      chapters:    
+      - impacts.qmd
+    - part: "Legal issues"
       chapters:
+      - legal.qmd
+    - part: "Implementation"      
+      chapters:
+      - implementation.qmd
+    - part: "Fiscal Impact"
+      chapters:
+      - fiscal.qmd
+    - part: "Alternative Approaches"
+      chapters:
+      - alternatives.qmd
+    - part: "Presentation"
+      chapters:
+      - presentation.qmd
+    - part: "Appendices"
+      chapters:    
       - appendix/resources.qmd
       - appendix/askquestion.qmd
     - part: "Notes"
