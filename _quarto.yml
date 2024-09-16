@@ -30,13 +30,14 @@ book:
     - part: "Appendices"
       chapters:
       - appendix/resources.qmd
-      - appendix/hidden_gce_links.qmd
-      - appendix/identify_advocacy_organizations.qmd
-      - appendix/housing_advocacy_organizations.qmd
-      - appendix/landlord_advocacy_organizations.qmd
-      - appendix/hidden_gce_proposed_vs_enacted.qmd
-      - appendix/hidden_gce_proposed_vs_other_states.qmd
       - appendix/askquestion.qmd
+    - part: "Notes"
+      chapters:
+      - notes/gce_links.qmd
+      - notes/identify_advocacy_organizations.qmd
+      - notes/housing_advocacy_organizations.qmd
+      - notes/landlord_advocacy_organizations.qmd
+      - notes/gce_proposed_vs_enacted.qmd
 
 # bibliography: references.bib
 
