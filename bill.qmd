@@ -60,7 +60,7 @@ Here's what's in the package, some of which we'll look at now and some of which 
 
 ## Reviewing the sponsor's memo
 
-The sponsor's memo can tell us about the intent of the bill and useful things about how it will operate. Some sponsors' memos are detailed and accurate, while others are quite general and sometimes out of date. While we always read these memos, we don't always assume they are accurate.
+The sponsor's memo can tell us about the intent of the bill and useful things about how it will operate. Some sponsors' memos are detailed and accurate, while others are quite general and sometimes out of date. We always read these memos but don't assume they are accurate or complete.
 
 Assemblymember Hunter's memo says the purpose of A.4454 is "To set standards for which eviction is acceptable and prohibit eviction without good cause, giving tenants expanded protection." It gives the following justification:
 
@@ -71,3 +71,15 @@ The memo does not provide details on the scope of the bill or how it would work,
 The memo says the bill has no fiscal implications (for the state or its local governments).
 
 ## Reviewing the bill text
+
+Reading the bill carefully from beginning to end is essential to understanding the proposal. Never assume bill memos or advocacy or opposition reports describe the bill accurate. Read the bill, and seek out professional reviews from others.
+
+The parts of a bill are described in the [Assembly rules, Rule III, Section 1](https://nyassembly.gov/Rules/?sec=r3#r3). Among other things, the bill title, section introductions, and bill sections have to clearly state the bill's subject, clearly reference existing and proposed laws that would be amended, and clearly show how the bill would change existing law.
+
+### The preamble
+
+Here's the preamble to A.4454 (everything through the enacting clause). It tells us the bill number, the 2-year legislative session, the house, the introduction date, main sponsor and multi-sponsors, the laws being amended and subject, and the enacting clause. A.4454 was introduced in the first year of the 2023-2024 session, by Assemblymember Hunter, with about 40 multi-sponsors . With work, we could determine how many cosponsors were Democrats, how many were Republicans, and where they are from, among other things.
+
+![](images/clipboard-4110516660.png)
+
+### Body of the bill
