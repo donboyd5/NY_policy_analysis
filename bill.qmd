@@ -60,4 +60,14 @@ Here's what's in the package, some of which we'll look at now and some of which 
 
 ## Reviewing the sponsor's memo
 
+The sponsor's memo can tell us about the intent of the bill and useful things about how it will operate. Some sponsors' memos are detailed and accurate, while others are quite general and sometimes out of date. While we always read these memos, we don't always assume they are accurate.
+
+Assemblymember Hunter's memo says the purpose of A.4454 is "To set standards for which eviction is acceptable and prohibit eviction without good cause, giving tenants expanded protection." It gives the following justification:
+
+> Renters across all of New York deserve stable housing and should not be subject to unfair evictions. By setting standards in law for when evictions are appropriate, renters will be protected from unfair practices that seek to evict them through no fault of their own. Tenants who pay their rent on time and lease responsibly should not be held to things such as drastic rent increases that are done for no other reason than forcing these tenants out. These increases are often far above what would be considered fair market. In circumstances where tenants are causing a nuisance or fail to pay fair rent, for example, tenants may still be evicted.
+
+The memo does not provide details on the scope of the bill or how it would work, but we will read the text of the bill for that.
+
+The memo says the bill has no fiscal implications (for the state or its local governments).
+
 ## Reviewing the bill text
