@@ -35,10 +35,79 @@ Several states and municipalities outside New York have enacted or proposed Good
 ### Summary Table
 
 | Aspect | A4454 (NY Proposal) | California | New Jersey | Oregon | Upstate NY Cities |
-|----|----|----|----|----|----|
+|------------|------------|------------|------------|------------|------------|
 | **Rent Increase Limit** | 3% or 1.5x CPI, whichever greater | 5% + CPI or 10%, whichever lower | Varies (no set percentage) | 7% + CPI | Local adjustments (e.g., 245% FMR) |
 | **Property Age Restrictions** | None | Buildings \> 15 years old | None | Buildings \> 15 years old | None |
 | **Small Landlord Exemption** | Owner-occupied \<4 units | Not explicitly defined | Not explicitly defined | Not explicitly defined | Often 1-unit owners |
 | **Cause for Eviction** | Specific “good causes” | Similar, limits on unjust eviction | 17 specific grounds | Specific good causes | Adapts state law |
 
 The differences between A4454 and other states' GCE laws reflect varied approaches to balancing tenant protections and landlord rights, shaped by local housing markets and legislative priorities ([Shelterforce](https://shelterforce.org/2024/07/12/in-upstate-new-york-the-fight-for-good-cause-continues/)).
+
+## ChatGPT Round 2, DC added
+
+### 1. **Scope of Good Cause**
+
+-   **A.4454 (NY Proposal)**: Lists specific causes like non-payment, lease violations, and a cap on rent increases. It does not apply to certain owner-occupied properties and allows for local governments to opt in.
+
+-   **California**: Statewide "Just Cause" law protects tenants after 12 months of occupancy. It includes specific causes such as non-payment, lease violations, and owner move-ins.
+
+-   **New Jersey**: Long-standing eviction protections under the 1974 Anti-Eviction Act, listing 17 causes for eviction, including rent non-payment and significant property violations.
+
+-   **Oregon**: Statewide protections include rent caps and just cause eviction protections. Applies to tenants after one year of occupancy.
+
+-   **Upstate NY Cities**: Adapted statewide GCE law with variations. Cities like Albany have tightened definitions, often limiting small landlord exemptions to those with one unit.
+
+-   **D.C.**: Strong protections requiring landlords to show a "good cause" for eviction, such as non-payment or substantial lease violations. This law has been in place since 1985.
+
+### 2. **Rent Control and Caps**
+
+-   **A.4454 (NY Proposal)**: Sets a cap on rent increases at 3% or 1.5 times the regional CPI, whichever is greater.
+
+-   **California**: Limits annual rent increases to 5% plus CPI, capped at 10%.
+
+-   **New Jersey**: No statewide rent control; rent increases are regulated at the municipal level.
+
+-   **Oregon**: Limits rent increases to 7% plus CPI, with exceptions for new constructions (first 15 years).
+
+-   **Upstate NY Cities**: Cities that opt into the GCE law can define rent increase caps, with some using a higher threshold (e.g., Albany sets it at 245% of the fair market rent).
+
+-   **D.C.**: Includes strict rent control measures for buildings built before 1976, typically capping rent increases based on CPI.
+
+### 3. **Small Landlord Exemption**
+
+-   **A.4454 (NY Proposal)**: Exempts owner-occupied buildings with fewer than four units.
+
+-   **California**: Exempts duplexes where one unit is owner-occupied and single-family homes owned by individuals.
+
+-   **New Jersey**: Does not specifically exempt small landlords in the statewide law.
+
+-   **Oregon**: Applies to landlords owning more than four units.
+
+-   **Upstate NY Cities**: Some cities (e.g., Albany) define small landlords as those owning only one unit, tightening the statewide default exemption.
+
+-   **D.C.**: No specific small landlord exemption; laws apply broadly to most rental properties.
+
+### 4. **Applicability**
+
+-   **A.4454 (NY Proposal)**: Proposed statewide but allows for local municipalities to opt in.
+
+-   **California**: Statewide with specific exemptions for newer buildings and smaller landlords.
+
+-   **New Jersey**: Statewide application without an opt-in/opt-out mechanism.
+
+-   **Oregon**: Statewide, applies to most rental properties, with some exceptions for newer constructions.
+
+-   **Upstate NY Cities**: Opt into the statewide GCE law and can amend specific provisions, like the definition of small landlords.
+
+-   **D.C.**: Applies city-wide, covering most rental units.
+
+### Summary Comparison Table
+
+| Aspect | A.4454 (NY Proposal) | California | New Jersey | Oregon | Upstate NY Cities | D.C. |
+|----|----|----|----|----|----|----|
+| **Scope of Good Cause** | Specific reasons (e.g., non-payment, violation) | Similar, limits on unjust evictions | 17 specific causes | Just cause after 1-year tenancy | Adapts state law | Broad reasons for eviction |
+| **Rent Caps** | 3% or 1.5x CPI | 5% + CPI (max 10%) | Varies by municipality | 7% + CPI | Local adaptations | Strict rent control (CPI-based) |
+| **Small Landlord Exemption** | Owner-occupied \<4 units | Owner-occupied duplexes, single-family homes | None specified | Landlords owning \>4 units | Often 1-unit owners | No specific exemption |
+| **Applicability** | Statewide; opt-in for localities | Statewide with exemptions | Statewide | Statewide, exceptions for new builds | Local opt-in | City-wide |
+
+This analysis highlights the similarities and differences between the New York proposal (A.4454) and other good cause eviction laws across various jurisdictions. D.C., California, and Oregon offer broader tenant protections, while New York's proposal and local adaptations attempt to find a balance between tenant rights and property owner concerns.
