@@ -60,4 +60,44 @@ Here's what's in the package, some of which we'll look at now and some of which 
 
 ## Reviewing the sponsor's memo
 
+The sponsor's memo can tell us about the intent of the bill and useful things about how it will operate. Some sponsors' memos are detailed and accurate, while others are quite general and sometimes out of date. We always read these memos but don't assume they are accurate or complete.
+
+Assemblymember Hunter's memo says the purpose of A.4454 is "To set standards for which eviction is acceptable and prohibit eviction without good cause, giving tenants expanded protection." It gives the following justification:
+
+> Renters across all of New York deserve stable housing and should not be subject to unfair evictions. By setting standards in law for when evictions are appropriate, renters will be protected from unfair practices that seek to evict them through no fault of their own. Tenants who pay their rent on time and lease responsibly should not be held to things such as drastic rent increases that are done for no other reason than forcing these tenants out. These increases are often far above what would be considered fair market. In circumstances where tenants are causing a nuisance or fail to pay fair rent, for example, tenants may still be evicted.
+
+The memo does not provide details on the scope of the bill or how it would work, but we will read the text of the bill for that.
+
+The memo says the bill has no fiscal implications (for the state or its local governments).
+
 ## Reviewing the bill text
+
+Reading the bill carefully from beginning to end is essential to understanding the proposal. Never assume bill memos or advocacy or opposition reports describe the bill accurate. Read the bill, and seek out professional reviews from others.
+
+The parts of a bill are described in the [Assembly rules, Rule III, Section 1](https://nyassembly.gov/Rules/?sec=r3#r3). Among other things, the bill title, section introductions, and bill sections have to clearly state the bill's subject, clearly reference existing and proposed laws that would be amended, and clearly show how the bill would change existing law.
+
+### The preamble
+
+Here's the preamble to A.4454 (everything through the enacting clause). It tells us the bill number, the 2-year legislative session, the house, the introduction date, the main sponsor and multi-sponsors, the law being amended, the subject, and the enacting clause. A.4454 was introduced in the first year of the 2023-2024 session by Assemblymember Hunter, with about 40 multi-sponsors and it amends only the Real Property Law. With work, we could determine how many cosponsors were Democrats, how many were Republicans, and where they are from, among other things.
+
+![](images/clipboard-4110516660.png)
+
+### Body of the bill
+
+Start by getting an overview. A.4454 has three sections:
+
+-   **Section 1** amends the Real Property Law to add a new Article 6-A, PROHIBITION OF EVICTION WITHOUT GOOD CAUSE. The section adds 7 sections to the Real Property Law and runs about 3 pages.
+
+-   **Section 2** is a *severability clause*, which says, in essence, that if any part of the bill as enacted is found invalid (e.g., unconstitutitonal), other provisions will not be invalidated. (Severability is a general principle of statutory construction and a court might sever an invalidated clause from the rest of an enactment even in absence of a severability clause.)
+
+-   **Section 3** is the effective date and says, "This act shall take effect immediately and shall apply to actions and proceedings commenced on or after such effective date." This might require analysis as we get into the bill in depth.
+
+Now we dive into section 1 in depth. It adds 7 sections, not all of which are obvious from their names
+
+![](images/clipboard-3274177729.png)
+
+New Section 210 of the Real Property Law is obvious so we won't worry about that. Let's look at Section 211 Definitions:
+
+-   **Housing accommodation**: "any residential premises, including a mobile home land in a mobile home park". It seems to include anything we would think of as a residence - presumably apartments, condominiums, cooperative apartments, duplexes, free standing homes, mobile homes, and even land in a mobile home park that doesn't have a home on it. We may need to investigate this more deeply later.
+
+:

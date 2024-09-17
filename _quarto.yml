@@ -15,7 +15,6 @@ book:
   date-format: long
   chapters:
     - index.qmd
-    - planning.qmd
     - intro.qmd
     - part: "Policy Analysis"
       chapters:    
