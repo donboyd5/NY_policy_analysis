@@ -1,0 +1,80 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# High-Quality Evidence
+
+## Reading
+
+Caveat emptor: Stuart Buck. “Important Lessons About Reproducibility in Science.” Arnold Ventures, August 27, 2015. https://www.arnoldventures.org/stories/important-lessons-about-reproducibility-in-science. [here](resources/general/buck_stuart_2015_arnoldventures.org-Important Lessons About Reproducibility in Science.pdf)
+
+“Evidence-Based Policymaking Primer.” Bipartisan Policy Center, July 24, 2018. https://bipartisanpolicy.org/download/?file=/wp-content/uploads/2019/03/Evidence-Based-Policymaking-Primer.pdf. [here](resources/general/bipartisanpolicycenter_2018_Evidence-Based Policymaking Primer.pdf)
+
+
+**Evaluating sources**: Read the following parts of the *UC Berkeley Guide to Evaluating Resources*:
+
+o   The [home page](https://guides.lib.berkeley.edu/c.php?g=83917&p=539735). Pay special attention to questions under *In-Depth Guide*.
+
+o   Read the [Scholarly and Popular Sources](https://guides.lib.berkeley.edu/c.php?g=83917&p=3747680) subpage.
+
+o   Read the [Finding Historical Primary Sources: Getting Started](https://guides.lib.berkeley.edu/c.php?g=4409&p=15606) subpage.
+
+
+## A general framework
+
+1.  **Types of Evidence**:
+
+    -   **Anecdotal**: Personal stories or isolated examples. While they can be powerful and illustrative, they don't provide comprehensive evidence.
+
+    -   **Descriptive**: Offers a description or snapshot of a situation, but doesn't explain why the situation exists.
+
+    -   **Empirical**: Evidence based on data and facts. This can come from surveys, experiments, and other research methods.
+
+    -   **Expert Testimony**: Provided by individuals with specialized knowledge on a subject.
+
+2.  **Source Credibility**:
+
+    -   Check the qualifications of the source.
+
+    -   Examine potential conflicts of interest.
+
+    -   Consider the reputation of the organization or publication.
+
+3.  **Recency**: Data and information can become outdated, especially in fields that change rapidly.
+
+4.  **Relevance**: Ensure the evidence directly relates to the policy question at hand.
+
+5.  **Sample Size & Representativeness**:
+
+    -   Larger samples can provide more reliable evidence.
+
+    -   The sample should be representative of the population it's meant to describe.
+
+6.  **Consistency**:
+
+    -   Is the evidence consistent with other available evidence?
+
+    -   Contradictory evidence doesn\'t necessarily discredit a claim, but it necessitates further investigation.
+
+7.  **Methodology**:
+
+    -   Check how the data was collected and analyzed.
+
+    -   Peer-reviewed studies typically have reliable methodologies.
+
+    -   Be wary of studies with significant methodological flaws.
+
+8.  **Bias & Objectivity**:
+
+    -   Examine the purpose of the study. Was it designed to achieve a particular outcome?
+
+    -   Consider the funding source of the research.
+
+9.  **Generalizability**: Can the findings be applied to larger or different populations or settings?
+
+10. **Magnitude of Effects**: Even if an effect is statistically significant, consider its practical significance.
+
+11. **Causality vs. Correlation**: Just because two variables are correlated doesn\'t mean one caused the other.
+

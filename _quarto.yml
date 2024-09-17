@@ -57,6 +57,9 @@ book:
       - notes/housing_advocacy_organizations.qmd
       - notes/landlord_advocacy_organizations.qmd
       - notes/gce_proposed_vs_enacted.qmd
+      - notes/gce_proposed_vs_other_states.qmd
+      - notes/high_quality_evidence.qmd
+      - notes/legislative_history.qmd
 
 # bibliography: references.bib
 

@@ -1,8 +1,16 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
 # Policy Analysis
 
 ## What is Policy Analysis?
 
-
 ## Reading
 
+Alice M. Rivlin. “Memorandum to Executive Staff: Public Policy Issues.” U.S. Congressional Budget Office, January 5, 1976. <https://www.cbo.gov/sites/default/files/Public_Policy_Issues_Memo_Rivlin_1976.pdf>. or [here](resources/general/Public_Policy_Issues_Memo_Rivlin_1976.pdf). – Is there an organization like CBO in New York State?
+
+Bardach, Eugene. A Practical Guide for Policy Analysis: The Eightfold Path to More Effective Problem Solving. 4th ed. Los Angeles : Thousand Oaks: Sage ; CQ Press, 2012. https://justicepolicynetwork.com/wp-content/uploads/2021/03/Bardachs-Eightfold-Path-1.pdf and [here](resources/general/Bardachs-Eightfold-Path-1.pdf).
 
