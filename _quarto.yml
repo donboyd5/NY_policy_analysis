@@ -60,6 +60,7 @@ book:
       - notes/gce_proposed_vs_other_states.qmd
       - notes/high_quality_evidence.qmd
       - notes/legislative_history.qmd
+      - notes/policy_analysis.qmd
 
 # bibliography: references.bib
 
