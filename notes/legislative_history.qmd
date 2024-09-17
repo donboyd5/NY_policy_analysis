@@ -1,0 +1,13 @@
+---
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+# Legislative History
+
+
+## Reading
+
+Catherine Smith. “Legislative History: Know the Record.” Chapter 5. In Writing Public Policy, 3rd ed. Oxford University Press, 2013. ISBN: 9780199933913. [here](resources/general/Smith-LegislativeHistory.pdf)
+

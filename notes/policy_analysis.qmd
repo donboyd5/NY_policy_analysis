@@ -1,0 +1,49 @@
+
+
+# Policy Analysis
+
+## Rivlin
+
+; be nonpartisan; does NY have an organization like CBO?
+
+o   Non-advocacy approach - a la 2 min presentations & research paper -- before advocacy, must understand objective approach
+
+§  Why? learn from those who disagree with you, strengthen your proposal; understand how you will be attacked
+
+§  Does NY have an organization like CBO?
+
+## Policy analysis framework
+
+-   Lots of books/approaches -- e.g., CDC framework \[problem, analysis, the policy and its development, enactment, implementation\] -- but a lot of commonality \[CDC has enactment and implementation, Bardach does not\]
+
+-   Who is Bardach? Political scientist, Goldman School Public Policy at UC Berkeley, teaching since 1973
+
+-   Overview of Bardach's 8 steps \[4 are about choosing alternatives\]
+
+    -   Step 1: Define the problem
+
+    -   Step 2: Assemble some evidence (assess nature and extent of problem; assess the policy environment – e.g., workloads, demographics, politics; assess policies that have been considered effective by some) – review literature; gain background knowledge; best practices
+
+    -   Step 3: Construct the alternatives (who’s proposed what? Other states;
+
+    -   Step 4: Select the criteria
+
+    -   Step 5: Project the outcomes
+
+    -   Step 6: Confront the trade-offs
+
+    -   Step 7: Stop, Focus, Narrow, Deepen, Decide
+
+    -   Step 8: Tell Your Story
+
+-   How does policy analysis from an academic perspective relate to analysis of legislation? (and the research paper)
+
+    -   Problem may be defined already
+
+    -   Solution may be chosen already - not alternatives
+
+    -   Still, useful to think about alternatives
+
+    -   Real world - implementation matters
+
+    -   Order of analysis/writing is different from policy analysis
