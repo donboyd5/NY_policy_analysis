@@ -15,27 +15,48 @@ book:
   date-format: long
   chapters:
     - index.qmd
-    - planning.qmd
     - intro.qmd
-    - issue.qmd
-    - bill.qmd
-    - research.qmd
-    - legislative_history.qmd
-    - impacts.qmd
-    - legal.qmd
-    - implementation.qmd
-    - fiscal.qmd
-    - alternatives.qmd
-    - presentation.qmd
-    - part: "Appendices"
+    - part: "Policy Analysis"
+      chapters:    
+      - policy_analysis.qmd    
+    - part: "The Issue"
+      chapters:    
+      - issue.qmd
+    - part: "The Bill"
+      chapters:          
+      - bill.qmd
+      - research.qmd
+      - legislative_history.qmd
+    - part: "Who the Bill Would Affect and How"
+      chapters:    
+      - impacts.qmd
+    - part: "Legal Issues"
       chapters:
+      - legal.qmd
+    - part: "Implementation"      
+      chapters:
+      - implementation.qmd
+    - part: "Fiscal Impact"
+      chapters:
+      - fiscal.qmd
+    - part: "Alternative Approaches"
+      chapters:
+      - alternatives.qmd
+    - part: "What Finally Happened to A.4454 of 2024?"      
+    - part: "Presentation"
+      chapters:
+      - presentation.qmd
+    - part: "Appendices"
+      chapters:    
       - appendix/resources.qmd
-      - appendix/hidden_gce_links.qmd
-      - appendix/identify_advocacy_organizations.qmd
-      - appendix/housing_advocacy_organizations.qmd
-      - appendix/landlord_advocacy_organizations.qmd
-      - appendix/hidden_gce_proposed_vs_enacted.qmd
       - appendix/askquestion.qmd
+    - part: "Notes"
+      chapters:
+      - notes/gce_links.qmd
+      - notes/identify_advocacy_organizations.qmd
+      - notes/housing_advocacy_organizations.qmd
+      - notes/landlord_advocacy_organizations.qmd
+      - notes/gce_proposed_vs_enacted.qmd
 
 # bibliography: references.bib
 
@@ -45,6 +66,7 @@ format:
     code-fold: true
     number-depth: 5
     toc-depth: 5
+    toc-expand: false
   # pdf:
   #   documentclass: scrreprt
 
