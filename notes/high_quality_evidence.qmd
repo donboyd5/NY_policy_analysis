@@ -8,10 +8,9 @@ editor_options:
 
 ## Reading
 
-Caveat emptor: Stuart Buck. “Important Lessons About Reproducibility in Science.” Arnold Ventures, August 27, 2015. https://www.arnoldventures.org/stories/important-lessons-about-reproducibility-in-science. [here](resources/general/buck_stuart_2015_arnoldventures.org-Important Lessons About Reproducibility in Science.pdf)
+Caveat emptor: Stuart Buck. “Important Lessons About Reproducibility in Science.” Arnold Ventures, August 27, 2015. https://www.arnoldventures.org/stories/important-lessons-about-reproducibility-in-science. [here](resources/general/buck_stuart_2015_arnoldventures.org-Important%20Lessons%20About%20Reproducibility%20in%20Science.pdf)
 
-“Evidence-Based Policymaking Primer.” Bipartisan Policy Center, July 24, 2018. https://bipartisanpolicy.org/download/?file=/wp-content/uploads/2019/03/Evidence-Based-Policymaking-Primer.pdf. [here](resources/general/bipartisanpolicycenter_2018_Evidence-Based Policymaking Primer.pdf)
-
+“Evidence-Based Policymaking Primer.” Bipartisan Policy Center, July 24, 2018. https://bipartisanpolicy.org/download/?file=/wp-content/uploads/2019/03/Evidence-Based-Policymaking-Primer.pdf. [here](resources/general/bipartisanpolicycenter_2018_Evidence-Based%20Policymaking%20Primer.pdf)
 
 **Evaluating sources**: Read the following parts of the *UC Berkeley Guide to Evaluating Resources*:
 
@@ -20,7 +19,6 @@ o   The [home page](https://guides.lib.berkeley.edu/c.php?g=83917&p=539735). P
 o   Read the [Scholarly and Popular Sources](https://guides.lib.berkeley.edu/c.php?g=83917&p=3747680) subpage.
 
 o   Read the [Finding Historical Primary Sources: Getting Started](https://guides.lib.berkeley.edu/c.php?g=4409&p=15606) subpage.
-
 
 ## A general framework
 
@@ -56,7 +54,7 @@ o   Read the [Finding Historical Primary Sources: Getting Started](https://gui
 
     -   Is the evidence consistent with other available evidence?
 
-    -   Contradictory evidence doesn\'t necessarily discredit a claim, but it necessitates further investigation.
+    -   Contradictory evidence doesn't necessarily discredit a claim, but it necessitates further investigation.
 
 7.  **Methodology**:
 
@@ -76,5 +74,134 @@ o   Read the [Finding Historical Primary Sources: Getting Started](https://gui
 
 10. **Magnitude of Effects**: Even if an effect is statistically significant, consider its practical significance.
 
-11. **Causality vs. Correlation**: Just because two variables are correlated doesn\'t mean one caused the other.
+11. **Causality vs. Correlation**: Just because two variables are correlated doesn't mean one caused the other.
 
+## More notes - I think I summarized these from Berkeley
+
+### Authority
+
+-   Who is the author?
+
+-   What else has the author written?
+
+-   In which communities and contexts does the author have expertise?
+
+-   Does the author represent a particular set of world views?
+
+-   Do they represent specific gender, sexual, racial, political, social and/or cultural orientations?
+
+-   Do they privilege some sources of authority over others?
+
+-   Do they have a formal role in a particular institution (e.g. a professor at Oxford)?
+
+### Purpose
+
+-   Why was this source created?
+
+    -   Does it have an economic value for the author or publisher? 
+
+    -   Is it an educational resource? Persuasive?
+
+        -   What (research) questions does it attempt to answer?
+
+        -   Does it strive to be objective?
+
+    -   Does it fill any other personal, professional, or societal needs?
+
+-   Who is the intended audience?
+
+    -   Is it for scholars?
+
+    -   Is it for a general audience?
+
+### Publication & format
+
+-   Where was it published?
+
+-   Was it published in a scholarly publication, such as an academic journal?
+
+    -   Who was the publisher? Was it a university press?
+
+    -   Was it formally peer-reviewed?
+
+-   Does the publication have a particular editorial position?
+
+    -   Is it generally thought to be a conservative or progressive outlet?
+
+    -   Is the publication sponsored by any other companies or organizations? Do the sponsors have particular biases?
+
+-   Were there any apparent barriers to publication?
+
+    -   Was it self-published?
+
+    -   Were there outside editors or reviewers?
+
+-   Where, geographically, was it originally published, and in what language?
+
+-   In what medium?
+
+    -   Was it published online or in print? Both?
+
+    -   Is it a blog post? A YouTube video? A TV episode? An article from a print magazine?
+
+        -   What does the medium tell you about the intended audience?
+
+        -   What does the medium tell you about the purpose of the piece?
+
+### Relevance
+
+-   How is it relevant to your research?
+
+    -   Does it analyze the primary sources that you're researching?
+
+    -   Does it cover the authors or individuals that you're researching, but different primary texts?
+
+    -   Can you apply the authors' frameworks of analysis to your own research?
+
+-   What is the scope of coverage?
+
+    -   Is it a general overview or an in-depth analysis?
+
+    -   Does the scope match your own information needs?
+
+    -   Is the time period and geographic region relevant to your research?
+
+### Date of Publication
+
+-   When was the source first published?
+
+-   What version or edition of the source are you consulting?
+
+    -   Are there differences in editions, such as new introductions or footnotes?
+
+    -   If the publication is online, when was it last updated?
+
+-   What has changed in your field of study since the publication date? 
+
+-   Are there any published reviews, responses or rebuttals?
+
+### Documentation
+
+-   Did they cite their sources?
+
+    -   If not, do you have any other means to verify the reliability of their claims?
+
+-   Who do they cite?
+
+    -   Is the author affiliated with any of the authors they're citing?
+
+    -   Are the cited authors part of a particular academic movement or school of thought?
+
+-   Look closely at the quotations and paraphrases from other sources:
+
+    -   Did they appropriately represent the context of their cited sources?
+
+    -   Did they ignore any important elements from their cited sources?
+
+    -   Are they cherry-picking facts to support their own arguments?
+
+    -   Did they appropriately cite ideas that were not their own?
+
+## From Brookings
+
+![](images/clipboard-16970339.png)
