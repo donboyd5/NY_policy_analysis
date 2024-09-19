@@ -7,5 +7,7 @@
 
 _book/
 images/
+resources/mpp/MIT/11.003j-spring-2016/
 
 *.html
+*.zip
